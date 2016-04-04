@@ -1,0 +1,35 @@
+2015-02-03 14:58:53+0100 [scrapy] NOLEVEL: {
+	    "_values": {
+	        "album": "Srebrna G\u00f3ra 2012", 
+	        "date": "17-06-2012", 
+	        "description": "<div align=\"center\" style=\"margin:5px 0px 5px 0px\" class=\"photogallery_photo_desc\"><!--photogallery_photo_desc-->\nData: 17-06-2012<br>\nDodane przez: <a href=\"profile.php?lookup=5\">malgorzata_danielewicz</a><br>\nWymiary:  x  pikseli<br>\n\nWarning: filesize(): stat failed for images/photoalbum/album_724/dsc_0310_800x530.jpg in /home/virtualki/89016/liceum/photogallery.php on line 98\nRozmiar pliku: Bytes<br>\nKomentarzy: 0<br>\nOcena: Brak<br>\nLiczba obejrze\u0144: 144\n</div>", 
+	        "height": "UNMATCHED", 
+	        "image": "images/photoalbum/album_724/dsc_0310_800x530.jpg", 
+	        "photo_id": "21000", 
+	        "uploader": "malgorzata_danielewicz", 
+	        "views": "98", 
+	        "width": "UNMATCHED", 
+	        "year": "2012"
+	    }
+	}
+2015-02-03 14:58:53+0100 [ekos] INFO: Closing spider (finished)
+2015-02-03 14:58:53+0100 [ekos] INFO: Stored json feed (1 items) in: items.json
+2015-02-03 14:58:53+0100 [ekos] INFO: Dumping Scrapy stats:
+	{'downloader/request_bytes': 248,
+	 'downloader/request_count': 1,
+	 'downloader/request_method_count/GET': 1,
+	 'downloader/response_bytes': 24859,
+	 'downloader/response_count': 1,
+	 'downloader/response_status_count/200': 1,
+	 'finish_reason': 'finished',
+	 'finish_time': datetime.datetime(2015, 2, 3, 13, 58, 53, 870000),
+	 'item_scraped_count': 1,
+	 'log_count/DEBUG': 4,
+	 'log_count/INFO': 9,
+	 'response_received_count': 1,
+	 'scheduler/dequeued': 1,
+	 'scheduler/dequeued/memory': 1,
+	 'scheduler/enqueued': 1,
+	 'scheduler/enqueued/memory': 1,
+	 'start_time': datetime.datetime(2015, 2, 3, 13, 58, 53, 566000)}
+2015-02-03 14:58:53+0100 [ekos] INFO: Spider closed (finished)
